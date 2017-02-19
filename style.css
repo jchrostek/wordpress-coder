@@ -1,0 +1,16 @@
+@import url('asset/css/bootstrap.min.css');
+@import url('asset/css/font-awesome.min.css');
+
+footer{
+	padding-top:30px;
+	padding-bottom:25px;
+	background-color: #000;
+	color: #fff;
+}
+footer a{
+	color: #fff;
+	text-decoration:none;
+}
+footer .fa{
+	color:#fff;
+}
